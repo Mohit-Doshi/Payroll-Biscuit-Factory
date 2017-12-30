@@ -2,8 +2,8 @@
 /**
  * Write a description of class payrollxbisfac here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author (MOHIT) 
+ * @version (December 13, 2014)
  */
 import java.io.*;
 public class payrollbifa 
